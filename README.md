@@ -1,0 +1,1 @@
+# CNN-ve-ANN-ile-diabet-hastal-tahmini
